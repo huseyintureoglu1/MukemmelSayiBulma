@@ -1,0 +1,7 @@
+C:\Users\husey\source\repos\MukemmelSayiMi\MukemmelSayiMi\bin\Debug\MukemmelSayiMi.exe.config
+C:\Users\husey\source\repos\MukemmelSayiMi\MukemmelSayiMi\bin\Debug\MukemmelSayiMi.exe
+C:\Users\husey\source\repos\MukemmelSayiMi\MukemmelSayiMi\bin\Debug\MukemmelSayiMi.pdb
+C:\Users\husey\source\repos\MukemmelSayiMi\MukemmelSayiMi\obj\Debug\MukemmelSayiMi.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\MukemmelSayiMi\MukemmelSayiMi\obj\Debug\MukemmelSayiMi.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\MukemmelSayiMi\MukemmelSayiMi\obj\Debug\MukemmelSayiMi.exe
+C:\Users\husey\source\repos\MukemmelSayiMi\MukemmelSayiMi\obj\Debug\MukemmelSayiMi.pdb
